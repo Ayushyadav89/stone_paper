@@ -22,3 +22,4 @@ Stone_Paper is a digital version of the classic "Rock, Paper, Scissors" game, of
 - We are developed as a project during the first year of B.Tech to enhance programming and development skills
 
 # Screenshot
+![Screenshot (2)](https://github.com/user-attachments/assets/1e90d5c1-8be8-4ede-9358-96acec88abc1)
