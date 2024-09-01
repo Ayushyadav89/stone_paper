@@ -1,7 +1,5 @@
 # Stone Paper
 
-<hr>
-
 # Overview
 Stone_Paper is a digital version of the classic "Rock, Paper, Scissors" game, often known as "Stone, Paper, Scissors" in some regions. This project allows players to compete against a computer or another player in a fun and interactive way, with a clean and user-friendly interface. The game is built with HTML,CSS JAVASCRIPT, providing an engaging and seamless experience.
 
